@@ -23,11 +23,9 @@
     "title": "HAPPY GENJRENGG!!!",
     "completed": false
   },
-    <div>
             <a class="underline decoration-transparent hover:decoration-inherit transition duration-300 ease-in-out text-yellow-400 hover:text-red-500 font-semibold">LIRIS CHORD TERBARU</a>
             <p><a href="Mangu" class="underline decoration-transparent hover:decoration-inherit transition duration-300 ease-in-out font-semibold text-yellow-400 hover:text-red-500">Fourtwnty - Mangu (ft. Charita Utami)</a></p>
             <p><a href="Tulus" class="underline decoration-transparent hover:decoration-inherit transition duration-300 ease-in-out font-semibold text-yellow-400 hover:text-red-500">Tulus - Hati-Hati Di Jalan</a></p>
             <p><a href="Akutenang" class="underline decoration-transparent hover:decoration-inherit transition duration-300 ease-in-out font-semibold text-yellow-400 hover:text-red-500">Fourtwnty - Aku Tenang</a></p>
             <p><a href="Comingsoon" class="underline decoration-transparent hover:decoration-inherit transition duration-300 ease-in-out font-semibold text-yellow-400 hover:text-red-500">COMINGSOON</a></p>
-     </div>
 ]
