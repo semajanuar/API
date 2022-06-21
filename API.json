@@ -23,18 +23,5 @@
     "title": "HAPPY GENJRENGG!!!",
     "completed": false
    },
-  
-  {"success":true,"products":[
-
-    {"id":"1","nama":"Kamar Luxury","keterangan":"K.Mandi dalam - Wifi - AC-Kloset...","tipe":"Kamar Tipe A","harga":"2.800.000 / Bulan","stok":"Ready",},
-
-    {"id":"2","nama":"Kamar Luxury","keterangan":"K.Mandi dalam - Wifi - AC-Kloset...","tipe":"Kamar Tipe A","harga":"2.800.000 / Bulan","stok":"Ready",},
-
-    {"id":"3","nama":"Kamar Luxury","keterangan":"K.Mandi dalam - Wifi - AC-Kloset...","tipe":"Kamar Tipe A","harga":"2.800.000 / Bulan","stok":"Ready",},
-
-    {"id":"4","nama":"Kamar Luxury","keterangan":"K.Mandi dalam - Wifi - AC-Kloset...","tipe":"Kamar Tipe A","harga":"2.800.000 / Bulan","stok":"Ready",},
-
-    {"id":"5","nama":"Kamar Luxury","keterangan":"K.Mandi dalam - Wifi - AC-Kloset...","tipe":"Kamar Tipe A","harga":"2.800.000 / Bulan","stok":"Ready",},
-    
-    ],"totalRecordCount":10,"version":"17.0.13"}
+ 
 ]
